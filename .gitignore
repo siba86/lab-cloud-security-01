@@ -1,0 +1,11 @@
+# Dépôt public : ne jamais publier de clés ni d'identifiants
+*.pem
+*.key
+*.ppk
+id_rsa*
+.env
+.env.*
+*.secret
+
+# Capture originale avec IP publique visible : seule la version masquee est versionnee
+Capture d’écran 2026-07-27 202124.png
